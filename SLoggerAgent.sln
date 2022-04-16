@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SLoggerAgentBusinessLogic", "SLoggerAgentBusinessLogic\SLoggerAgentBusinessLogic.csproj", "{55066012-3D36-4F85-A6F3-BE2F0A4703A7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SLoggerAgent", "SLoggerAgent\SLoggerAgent.csproj", "{556E4068-F771-4DBB-A52A-E0AE62E14A28}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SLoggerAgentUnitTests", "SLoggerAgentUnitTests\SLoggerAgentUnitTests.csproj", "{E5ECDE79-4D57-472F-9E4F-09C381767A21}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{55066012-3D36-4F85-A6F3-BE2F0A4703A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55066012-3D36-4F85-A6F3-BE2F0A4703A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55066012-3D36-4F85-A6F3-BE2F0A4703A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55066012-3D36-4F85-A6F3-BE2F0A4703A7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{556E4068-F771-4DBB-A52A-E0AE62E14A28}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{556E4068-F771-4DBB-A52A-E0AE62E14A28}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{556E4068-F771-4DBB-A52A-E0AE62E14A28}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{556E4068-F771-4DBB-A52A-E0AE62E14A28}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E5ECDE79-4D57-472F-9E4F-09C381767A21}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5ECDE79-4D57-472F-9E4F-09C381767A21}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5ECDE79-4D57-472F-9E4F-09C381767A21}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5ECDE79-4D57-472F-9E4F-09C381767A21}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
