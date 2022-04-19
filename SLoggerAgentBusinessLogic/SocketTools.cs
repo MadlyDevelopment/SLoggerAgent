@@ -43,7 +43,7 @@ public class SocketTools
     /// <param name="port">The server port of the server the SLogger service is running on</param>
     /// <param name="data">The data you want to send to the SLoggerServer service</param>
     /// <returns>The data response which was send back by the server</returns>
-    private static string SocketSendReceive(string server, int port, string data)
+    public static string SocketSendReceive(string server, int port, string data)
     {
         var bytesSent = Encoding.UTF8.GetBytes(data);
         var bytesReceived = new byte[256];
